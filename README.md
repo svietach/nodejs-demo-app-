@@ -1,2 +1,2 @@
-# nodejs-demo-app-
+# nodejs-demo-app
 Node.js demo application 
